@@ -1,0 +1,503 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\3bff6f4bf4e3cdcdba4b4f2cdc238a6a\AndroidManifest.xml:17:1-22:12
+MERGED from [:google_sign_in] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\fluttertoast\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [:firebase_core] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-16.0.0.aar\d6877432080400a50e5f7f8382e8249c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\4b4593e657900725c907ac155d837db9\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c0ac8cc12f9650cc32c36d52bf74907b\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\f3e004c46ea9c4138ae8b1b7e727524e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\5c1a4e943bcc483d7b9ec76699cfa51d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\028017171863d8ffc147d5f7107ed0cd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\672baf7e258bba842c7eb2849a0b8427\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e4899ad9bc9dfe440a86e7bfe4f8d85\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.0.aar\fdc195c8416452c9b2e8924567f1c091\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\a19a8fed89d8c197a5ceee9f54f9a964\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\64df2579b00213b6382e6202b3268822\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e85169add54df04c4f91c30be4acc89\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c45a5b13892e2c72dac362ee30c50cfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e75c30f9ec39856d618914671bccad1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\68a9f6d08554a9a6085f05345494c20b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff4639cc052b7d26fb743f51ef2e4325\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2a11b59d366f8af74a1e2624a3f9bfef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\edbdb67cbfb1f7f6f3eb42fb683951c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\462468d6d198a89b86078e5608ed3348\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d9a9a99dd5f93cde9a3df43de2d72e7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fe206aa21c8cec7cefdf68283863beb7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\564d173ebfc778aecdd5ebf7f8d58e26\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab0e5f8ac0c4ced6eece350452e4a37d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5dd1f107155e9733c675b7e95ff6aa1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\c6272698599dc5826fd4fd9e33624ed5\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\07e7c9e62c8387a171900ce25b73f171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\93d690574a90d660e55dd18745b212da\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:8:5-66
+MERGED from [:google_sign_in] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c0ac8cc12f9650cc32c36d52bf74907b\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c0ac8cc12f9650cc32c36d52bf74907b\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\5c1a4e943bcc483d7b9ec76699cfa51d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\5c1a4e943bcc483d7b9ec76699cfa51d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\028017171863d8ffc147d5f7107ed0cd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\028017171863d8ffc147d5f7107ed0cd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\672baf7e258bba842c7eb2849a0b8427\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\672baf7e258bba842c7eb2849a0b8427\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e4899ad9bc9dfe440a86e7bfe4f8d85\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e4899ad9bc9dfe440a86e7bfe4f8d85\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\a19a8fed89d8c197a5ceee9f54f9a964\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\a19a8fed89d8c197a5ceee9f54f9a964\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\64df2579b00213b6382e6202b3268822\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\64df2579b00213b6382e6202b3268822\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e85169add54df04c4f91c30be4acc89\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e85169add54df04c4f91c30be4acc89\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\93d690574a90d660e55dd18745b212da\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\93d690574a90d660e55dd18745b212da\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:17:9-38
+	android:icon
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.africa.market.MainActivity
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\3bff6f4bf4e3cdcdba4b4f2cdc238a6a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\3bff6f4bf4e3cdcdba4b4f2cdc238a6a\AndroidManifest.xml:20:5-43
+MERGED from [:google_sign_in] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\google_sign_in\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\fluttertoast\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\fluttertoast\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_storage\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\cloud_firestore\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-16.0.0.aar\d6877432080400a50e5f7f8382e8249c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-16.0.0.aar\d6877432080400a50e5f7f8382e8249c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\4b4593e657900725c907ac155d837db9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\4b4593e657900725c907ac155d837db9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c0ac8cc12f9650cc32c36d52bf74907b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c0ac8cc12f9650cc32c36d52bf74907b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\f3e004c46ea9c4138ae8b1b7e727524e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\f3e004c46ea9c4138ae8b1b7e727524e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\5c1a4e943bcc483d7b9ec76699cfa51d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\5c1a4e943bcc483d7b9ec76699cfa51d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\028017171863d8ffc147d5f7107ed0cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\028017171863d8ffc147d5f7107ed0cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\672baf7e258bba842c7eb2849a0b8427\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\672baf7e258bba842c7eb2849a0b8427\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e4899ad9bc9dfe440a86e7bfe4f8d85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e4899ad9bc9dfe440a86e7bfe4f8d85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.0.aar\fdc195c8416452c9b2e8924567f1c091\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.0.aar\fdc195c8416452c9b2e8924567f1c091\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\a19a8fed89d8c197a5ceee9f54f9a964\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\a19a8fed89d8c197a5ceee9f54f9a964\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\64df2579b00213b6382e6202b3268822\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\64df2579b00213b6382e6202b3268822\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e85169add54df04c4f91c30be4acc89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e85169add54df04c4f91c30be4acc89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c45a5b13892e2c72dac362ee30c50cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c45a5b13892e2c72dac362ee30c50cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e75c30f9ec39856d618914671bccad1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e75c30f9ec39856d618914671bccad1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\68a9f6d08554a9a6085f05345494c20b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\68a9f6d08554a9a6085f05345494c20b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff4639cc052b7d26fb743f51ef2e4325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff4639cc052b7d26fb743f51ef2e4325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2a11b59d366f8af74a1e2624a3f9bfef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2a11b59d366f8af74a1e2624a3f9bfef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\edbdb67cbfb1f7f6f3eb42fb683951c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\edbdb67cbfb1f7f6f3eb42fb683951c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\462468d6d198a89b86078e5608ed3348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\462468d6d198a89b86078e5608ed3348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d9a9a99dd5f93cde9a3df43de2d72e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d9a9a99dd5f93cde9a3df43de2d72e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fe206aa21c8cec7cefdf68283863beb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fe206aa21c8cec7cefdf68283863beb7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\564d173ebfc778aecdd5ebf7f8d58e26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\564d173ebfc778aecdd5ebf7f8d58e26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab0e5f8ac0c4ced6eece350452e4a37d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab0e5f8ac0c4ced6eece350452e4a37d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5dd1f107155e9733c675b7e95ff6aa1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5dd1f107155e9733c675b7e95ff6aa1c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\c6272698599dc5826fd4fd9e33624ed5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\c6272698599dc5826fd4fd9e33624ed5\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\07e7c9e62c8387a171900ce25b73f171\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\07e7c9e62c8387a171900ce25b73f171\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\93d690574a90d660e55dd18745b212da\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\93d690574a90d660e55dd18745b212da\AndroidManifest.xml:5:5-44
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\LPTI 3\React Native\Flutter\AfrikaMarket\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:22-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-74
+	android:exported
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-19:75
+	android:resource
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:17-72
+	android:name
+		ADDED from [:image_picker] E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\image_picker\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:17-67
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-auth-16.0.1.aar\5363e4c2dbf19eeef529cd20e6585d8d\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.3.aar\c621f269b6bc9fdaf729f5eba85d6035\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:10:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.1.aar\d7f1ec2e4d207877f55ae95ab7297c28\AndroidManifest.xml:16:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:24:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\440a8a40bce9afdbe1c4f0c4ed322c14\AndroidManifest.xml:33:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\1f26e4bb34bd8a0e2cfdaa60aa1990bb\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\588ec0c4bbabe91d79bc67fc3f286e1e\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\901b165b6653001446960c14a57af55b\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\8fb67a2702732e1fadc697e7d76cd44d\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1910b306886dcf839c044fa7916c50c5\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\ef75b7050a9e707c406bc0a916ae97bd\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Babacar\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\51e32f7ab78b26669e52534149ad6083\AndroidManifest.xml:24:13-58

@@ -1,0 +1,2 @@
+# Referenced at E:\LPTI 3\React Native\Flutter\AfrikaMarket\build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
